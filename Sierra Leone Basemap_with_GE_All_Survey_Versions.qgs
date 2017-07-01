@@ -22,7 +22,7 @@
       <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Checked" id="Surveys_ALL_VERSIONS_copy20170701131023192" source="/home/ivan/Documents/maps/WAMM_Map/Vector/Missing Maps/Surveys_ALL_VERSIONS.shp" name="Section_Name_labels">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Checked" id="Surveys_ALL_VERSIONS20170701130947617" source="/home/ivan/Documents/maps/WAMM_Map/Vector/Missing Maps/Surveys_ALL_VERSIONS.shp" name="Surveys_ALL_VERSIONS">
+      <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Checked" id="Surveys_ALL_VERSIONS20170701130947617" source="/home/ivan/Documents/maps/WAMM_Map/Vector/Missing Maps/Surveys_ALL_VERSIONS.shp" name="Mapper_Name_labels">
         <customproperties/>
       </layer-tree-layer>
     </layer-tree-group>
@@ -105,9 +105,9 @@
       <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="WAMM_SL_2017_village_survey_ALL_VERSIONS_copy20170629220659881"/>
       <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="WAMM_SL_2017_village_survey_V0_1_720170616202905836"/>
       <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="Nixon_Memorial_Hospital_Segbwema_catchment_area20170609183733255"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="Surveys_ALL_VERSIONS_copy_copy20170701131048639"/>
       <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="2017_06_13_WAMM2017_Survey_Result_SL20170614074919462"/>
       <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="WAMM_SL_2017_village_survey_ALL_VERSIONS20170628093923925"/>
-      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="Surveys_ALL_VERSIONS_copy_copy20170701131048639"/>
       <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="sle_admn_ad4_py_ocha_section20170512140848425"/>
       <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="2017_06_13_WAMM2017_Survey_Result_SL20170614075054455"/>
       <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="Kenema_and_Kailahun_polygons20170609184959338"/>
@@ -116,8 +116,8 @@
       <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="WAMM_SL_2017_village_survey_ALL_VERSIONS_copy_copy_copy20170628094141692"/>
       <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="WAMM_SL_2017_village_survey_V0_1_7_copy20170616203033575"/>
       <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="memory_20170618150958062"/>
-      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="WAMM_SL_2017_village_survey_V0_1_6___labels___2017_06_12_17_00_copy20170612173334071"/>
       <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="Surveys_ALL_VERSIONS_copy20170701131040457"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="WAMM_SL_2017_village_survey_V0_1_6___labels___2017_06_12_17_00_copy20170612173334071"/>
       <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="Kenema_and_kailahun_polygons20170609182504981"/>
       <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="Surveys_ALL_VERSIONS_copy20170701131023192"/>
       <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="20160418_SL_comms_WGS8420170616205729057"/>
@@ -127,8 +127,8 @@
       <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="Centroids20170618150402428"/>
       <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="Kenema_and_Kailahun_polygons_smallest_removed20170618145757313"/>
       <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="Points_of_interets20170610113436882"/>
-      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="WAMM_SL_2017_village_survey_V0_1_7_copy20170618222256052"/>
       <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="Surveys_ALL_VERSIONS20170701130947617"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="WAMM_SL_2017_village_survey_V0_1_7_copy20170618222256052"/>
       <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:3857" srcDatumTransform="-1" destDatumTransform="-1" layerid="Google_Satellite20170621133716932"/>
       <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="sle_admbnda_adm3_1m_gov_ocha20170512142021095"/>
       <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="Kenema_and_Kailahun_settlements_from_aerial20170618151129677"/>
@@ -205,7 +205,7 @@
           <legendlayerfile isInOverview="0" layerid="Surveys_ALL_VERSIONS_copy20170701131023192" visible="1"/>
         </filegroup>
       </legendlayer>
-      <legendlayer drawingOrder="-1" open="false" checked="Qt::Checked" name="Surveys_ALL_VERSIONS" showFeatureCount="0">
+      <legendlayer drawingOrder="-1" open="false" checked="Qt::Checked" name="Mapper_Name_labels" showFeatureCount="0">
         <filegroup open="false" hidden="false">
           <legendlayerfile isInOverview="0" layerid="Surveys_ALL_VERSIONS20170701130947617" visible="1"/>
         </filegroup>
@@ -2588,7 +2588,7 @@ def my_form_open(dialog, layer, feature):
       <keywordList>
         <value></value>
       </keywordList>
-      <layername>Surveys_ALL_VERSIONS</layername>
+      <layername>Mapper_Name_labels</layername>
       <srs>
         <spatialrefsys>
           <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
@@ -2760,7 +2760,34 @@ def my_form_open(dialog, layer, feature):
           <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
         </edittype>
       </edittypes>
-      <renderer-v2 type="nullSymbol"/>
+      <renderer-v2 forceraster="0" symbollevels="0" type="singleSymbol" enableorderby="0">
+        <symbols>
+          <symbol alpha="1" clip_to_extent="1" type="marker" name="0">
+            <layer pass="0" class="SimpleMarker" locked="0">
+              <prop k="angle" v="0"/>
+              <prop k="color" v="36,240,220,255"/>
+              <prop k="horizontal_anchor_point" v="1"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="name" v="circle"/>
+              <prop k="offset" v="0,0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_color" v="0,0,0,255"/>
+              <prop k="outline_style" v="solid"/>
+              <prop k="outline_width" v="0"/>
+              <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <prop k="scale_method" v="diameter"/>
+              <prop k="size" v="0"/>
+              <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="size_unit" v="MM"/>
+              <prop k="vertical_anchor_point" v="1"/>
+            </layer>
+          </symbol>
+        </symbols>
+        <rotation/>
+        <sizescale scalemethod="diameter"/>
+      </renderer-v2>
       <labeling type="simple"/>
       <customproperties>
         <property key="embeddedWidgets/count" value="0"/>
@@ -3330,7 +3357,34 @@ def my_form_open(dialog, layer, feature):
           <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
         </edittype>
       </edittypes>
-      <renderer-v2 type="nullSymbol"/>
+      <renderer-v2 forceraster="0" symbollevels="0" type="singleSymbol" enableorderby="0">
+        <symbols>
+          <symbol alpha="1" clip_to_extent="1" type="marker" name="0">
+            <layer pass="0" class="SimpleMarker" locked="0">
+              <prop k="angle" v="0"/>
+              <prop k="color" v="227,21,186,255"/>
+              <prop k="horizontal_anchor_point" v="1"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="name" v="circle"/>
+              <prop k="offset" v="0,0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_color" v="0,0,0,255"/>
+              <prop k="outline_style" v="solid"/>
+              <prop k="outline_width" v="0"/>
+              <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <prop k="scale_method" v="diameter"/>
+              <prop k="size" v="0"/>
+              <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="size_unit" v="MM"/>
+              <prop k="vertical_anchor_point" v="1"/>
+            </layer>
+          </symbol>
+        </symbols>
+        <rotation/>
+        <sizescale scalemethod="diameter"/>
+      </renderer-v2>
       <labeling type="simple"/>
       <customproperties>
         <property key="embeddedWidgets/count" value="0"/>
@@ -5907,8 +5961,6 @@ def my_form_open(dialog, layer, feature):
             </layer>
           </symbol>
         </source-symbol>
-        <colorramp type="randomcolors" name="[source]"/>
-        <invertedcolorramp value="0"/>
         <rotation/>
         <sizescale scalemethod="diameter"/>
       </renderer-v2>
@@ -6970,8 +7022,6 @@ def my_form_open(dialog, layer, feature):
             </layer>
           </symbol>
         </source-symbol>
-        <colorramp type="randomcolors" name="[source]"/>
-        <invertedcolorramp value="0"/>
         <rotation/>
         <sizescale scalemethod="diameter"/>
       </renderer-v2>
@@ -7544,7 +7594,34 @@ def my_form_open(dialog, layer, feature):
           <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
         </edittype>
       </edittypes>
-      <renderer-v2 type="nullSymbol"/>
+      <renderer-v2 forceraster="0" symbollevels="0" type="singleSymbol" enableorderby="0">
+        <symbols>
+          <symbol alpha="1" clip_to_extent="1" type="marker" name="0">
+            <layer pass="0" class="SimpleMarker" locked="0">
+              <prop k="angle" v="0"/>
+              <prop k="color" v="143,89,201,255"/>
+              <prop k="horizontal_anchor_point" v="1"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="name" v="circle"/>
+              <prop k="offset" v="0,0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_color" v="0,0,0,255"/>
+              <prop k="outline_style" v="solid"/>
+              <prop k="outline_width" v="0"/>
+              <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <prop k="scale_method" v="diameter"/>
+              <prop k="size" v="0"/>
+              <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="size_unit" v="MM"/>
+              <prop k="vertical_anchor_point" v="1"/>
+            </layer>
+          </symbol>
+        </symbols>
+        <rotation/>
+        <sizescale scalemethod="diameter"/>
+      </renderer-v2>
       <labeling type="simple"/>
       <customproperties>
         <property key="embeddedWidgets/count" value="0"/>
