@@ -22,9 +22,9 @@
           <customproperties/>
         </layer-tree-layer>
       </layer-tree-group>
-      <layer-tree-group expanded="1" checked="Qt::Unchecked" name="Mapper name labels">
+      <layer-tree-group expanded="1" checked="Qt::Checked" name="Mapper name labels">
         <customproperties/>
-        <layer-tree-layer expanded="0" providerKey="delimitedtext" checked="Qt::Unchecked" id="WAMM_SL_2017_village_survey_ALL_VERSIONS_copy_copy_copy20170628094349507" source="file:///home/ivan/Documents/maps/WAMM_Map/Vector/Missing%20Maps/WAMM_SL_2017_village_survey_ALL_VERSIONS.csv?type=csv&amp;xField=_LOCATION_longitude&amp;yField=_LOCATION_latitude&amp;spatialIndex=no&amp;subsetIndex=no&amp;watchFile=no" name="WAMM_SL_2017_village_survey_ALL_VERSIONS">
+        <layer-tree-layer expanded="0" providerKey="delimitedtext" checked="Qt::Checked" id="WAMM_SL_2017_village_survey_ALL_VERSIONS_copy_copy_copy20170628094349507" source="file:///home/ivan/Documents/maps/WAMM_Map/Vector/Missing%20Maps/WAMM_SL_2017_village_survey_ALL_VERSIONS.csv?type=csv&amp;xField=_LOCATION_longitude&amp;yField=_LOCATION_latitude&amp;spatialIndex=no&amp;subsetIndex=no&amp;watchFile=no" name="WAMM_SL_2017_village_survey_ALL_VERSIONS">
           <customproperties/>
         </layer-tree-layer>
       </layer-tree-group>
@@ -100,10 +100,10 @@
   <mapcanvas>
     <units>degrees</units>
     <extent>
-      <xmin>-11.56121591666666859</xmin>
-      <ymin>7.62016504166666664</ymin>
-      <xmax>-10.55541741666666411</xmax>
-      <ymax>8.56348329166666744</ymax>
+      <xmin>-10.8569619544638023</xmin>
+      <ymin>7.75482785606143921</ymin>
+      <xmax>-10.84910415368254988</xmax>
+      <ymax>7.76219752988956557</ymax>
     </extent>
     <rotation>0</rotation>
     <projections>1</projections>
@@ -216,10 +216,10 @@
           </filegroup>
         </legendlayer>
       </legendgroup>
-      <legendgroup open="true" checked="Qt::Unchecked" name="Mapper name labels">
-        <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="WAMM_SL_2017_village_survey_ALL_VERSIONS" showFeatureCount="0">
+      <legendgroup open="true" checked="Qt::Checked" name="Mapper name labels">
+        <legendlayer drawingOrder="-1" open="false" checked="Qt::Checked" name="WAMM_SL_2017_village_survey_ALL_VERSIONS" showFeatureCount="0">
           <filegroup open="false" hidden="false">
-            <legendlayerfile isInOverview="0" layerid="WAMM_SL_2017_village_survey_ALL_VERSIONS_copy_copy_copy20170628094349507" visible="0"/>
+            <legendlayerfile isInOverview="0" layerid="WAMM_SL_2017_village_survey_ALL_VERSIONS_copy_copy_copy20170628094349507" visible="1"/>
           </filegroup>
         </legendlayer>
       </legendgroup>
@@ -8741,7 +8741,7 @@ def my_form_open(dialog, layer, feature):
         <property key="labeling/fieldName" value="loc_adm3"/>
         <property key="labeling/fitInPolygonOnly" value="false"/>
         <property key="labeling/fontCapitals" value="0"/>
-        <property key="labeling/fontFamily" value="Noto Sans"/>
+        <property key="labeling/fontFamily" value="DejaVu Sans"/>
         <property key="labeling/fontItalic" value="true"/>
         <property key="labeling/fontLetterSpacing" value="0"/>
         <property key="labeling/fontLimitPixelSize" value="false"/>
@@ -8752,7 +8752,7 @@ def my_form_open(dialog, layer, feature):
         <property key="labeling/fontSizeMapUnitScale" value="0,0,0,0,0,0"/>
         <property key="labeling/fontStrikeout" value="false"/>
         <property key="labeling/fontUnderline" value="false"/>
-        <property key="labeling/fontWeight" value="75"/>
+        <property key="labeling/fontWeight" value="50"/>
         <property key="labeling/fontWordSpacing" value="0"/>
         <property key="labeling/formatNumbers" value="false"/>
         <property key="labeling/isExpression" value="false"/>
@@ -8768,7 +8768,7 @@ def my_form_open(dialog, layer, feature):
         <property key="labeling/minFeatureSize" value="0"/>
         <property key="labeling/multilineAlign" value="3"/>
         <property key="labeling/multilineHeight" value="1"/>
-        <property key="labeling/namedStyle" value="Bold Italic"/>
+        <property key="labeling/namedStyle" value="Condensed Oblique"/>
         <property key="labeling/obstacle" value="true"/>
         <property key="labeling/obstacleFactor" value="1"/>
         <property key="labeling/obstacleType" value="0"/>
@@ -9344,7 +9344,7 @@ def my_form_open(dialog, layer, feature):
         <property key="labeling/fieldName" value="VILLAGE_NAME"/>
         <property key="labeling/fitInPolygonOnly" value="false"/>
         <property key="labeling/fontCapitals" value="0"/>
-        <property key="labeling/fontFamily" value="Noto Sans"/>
+        <property key="labeling/fontFamily" value="DejaVu Sans"/>
         <property key="labeling/fontItalic" value="true"/>
         <property key="labeling/fontLetterSpacing" value="0"/>
         <property key="labeling/fontLimitPixelSize" value="false"/>
@@ -9355,7 +9355,7 @@ def my_form_open(dialog, layer, feature):
         <property key="labeling/fontSizeMapUnitScale" value="0,0,0,0,0,0"/>
         <property key="labeling/fontStrikeout" value="false"/>
         <property key="labeling/fontUnderline" value="false"/>
-        <property key="labeling/fontWeight" value="75"/>
+        <property key="labeling/fontWeight" value="50"/>
         <property key="labeling/fontWordSpacing" value="0"/>
         <property key="labeling/formatNumbers" value="false"/>
         <property key="labeling/isExpression" value="false"/>
@@ -9371,7 +9371,7 @@ def my_form_open(dialog, layer, feature):
         <property key="labeling/minFeatureSize" value="0"/>
         <property key="labeling/multilineAlign" value="3"/>
         <property key="labeling/multilineHeight" value="1"/>
-        <property key="labeling/namedStyle" value="Bold Italic"/>
+        <property key="labeling/namedStyle" value="Condensed Oblique"/>
         <property key="labeling/obstacle" value="true"/>
         <property key="labeling/obstacleFactor" value="1"/>
         <property key="labeling/obstacleType" value="0"/>
@@ -9920,7 +9920,7 @@ def my_form_open(dialog, layer, feature):
         <property key="labeling/fieldName" value="Mapper_first_name"/>
         <property key="labeling/fitInPolygonOnly" value="false"/>
         <property key="labeling/fontCapitals" value="0"/>
-        <property key="labeling/fontFamily" value="Noto Sans"/>
+        <property key="labeling/fontFamily" value="DejaVu Sans"/>
         <property key="labeling/fontItalic" value="true"/>
         <property key="labeling/fontLetterSpacing" value="0"/>
         <property key="labeling/fontLimitPixelSize" value="false"/>
@@ -9931,7 +9931,7 @@ def my_form_open(dialog, layer, feature):
         <property key="labeling/fontSizeMapUnitScale" value="0,0,0,0,0,0"/>
         <property key="labeling/fontStrikeout" value="false"/>
         <property key="labeling/fontUnderline" value="false"/>
-        <property key="labeling/fontWeight" value="75"/>
+        <property key="labeling/fontWeight" value="50"/>
         <property key="labeling/fontWordSpacing" value="0"/>
         <property key="labeling/formatNumbers" value="false"/>
         <property key="labeling/isExpression" value="false"/>
@@ -9947,7 +9947,7 @@ def my_form_open(dialog, layer, feature):
         <property key="labeling/minFeatureSize" value="0"/>
         <property key="labeling/multilineAlign" value="3"/>
         <property key="labeling/multilineHeight" value="1"/>
-        <property key="labeling/namedStyle" value="Bold Italic"/>
+        <property key="labeling/namedStyle" value="Condensed Oblique"/>
         <property key="labeling/obstacle" value="true"/>
         <property key="labeling/obstacleFactor" value="1"/>
         <property key="labeling/obstacleType" value="0"/>
@@ -10020,9 +10020,9 @@ def my_form_open(dialog, layer, feature):
         <property key="labeling/shapeType" value="0"/>
         <property key="labeling/substitutions" value="&lt;substitutions/>"/>
         <property key="labeling/textColorA" value="255"/>
-        <property key="labeling/textColorB" value="0"/>
-        <property key="labeling/textColorG" value="0"/>
-        <property key="labeling/textColorR" value="0"/>
+        <property key="labeling/textColorB" value="6"/>
+        <property key="labeling/textColorG" value="110"/>
+        <property key="labeling/textColorR" value="18"/>
         <property key="labeling/textTransp" value="0"/>
         <property key="labeling/upsidedownLabels" value="0"/>
         <property key="labeling/useSubstitutions" value="false"/>
