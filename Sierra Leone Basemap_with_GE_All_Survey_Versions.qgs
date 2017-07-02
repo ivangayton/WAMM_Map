@@ -11,7 +11,7 @@
     <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="Distance_matrix20170701170946686" source="/home/ivan/Documents/maps/WAMM_Map/Vector/Missing Maps/Nearest_settlements.csv" name="Distance matrix">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="Missed_settlements20170701172041388" source="/home/ivan/Documents/maps/WAMM_Map/Vector/OSM/Missed_settlements.gpkg|layername=Missed_settlements" name="Missed_settlements">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="Missed_settlements20170701172041388" source="/home/ivan/Documents/maps/WAMM_Map/Vector/OSM/Missed_settlements.gpkg|layername=Missed_settlements" name="Missed_settlements">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="Kenema_and_Kailahun_settlements_from_aerial20170618151129677" source="/home/ivan/Documents/maps/WAMM_Map/Vector/OSM/Kenema_and_Kailahun_settlements_from_aerial.shp" name="Kenema_and_Kailahun_settlements_from_aerial">
@@ -22,7 +22,7 @@
       <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="Problems20170701162717193" source="/home/ivan/Documents/maps/WAMM_Map/Vector/Missing Maps/Problems.gpkg|layername=Problems" name="Problems">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="0" providerKey="delimitedtext" checked="Qt::Unchecked" id="WAMM_SL_2017_village_survey_ALL_VERSIONS20170701155234445" source="file:///home/ivan/Documents/maps/WAMM_Map/Vector/Missing%20Maps/WAMM_SL_2017_village_survey_ALL_VERSIONS.csv?type=csv&amp;xField=_LOCATION_longitude&amp;yField=_LOCATION_latitude&amp;spatialIndex=no&amp;subsetIndex=no&amp;watchFile=no" name="Color_by_section">
+      <layer-tree-layer expanded="0" providerKey="delimitedtext" checked="Qt::Checked" id="WAMM_SL_2017_village_survey_ALL_VERSIONS20170701155234445" source="file:///home/ivan/Documents/maps/WAMM_Map/Vector/Missing%20Maps/WAMM_SL_2017_village_survey_ALL_VERSIONS.csv?type=csv&amp;xField=_LOCATION_longitude&amp;yField=_LOCATION_latitude&amp;spatialIndex=no&amp;subsetIndex=no&amp;watchFile=no" name="Color_by_section">
         <customproperties/>
       </layer-tree-layer>
       <layer-tree-layer expanded="0" providerKey="delimitedtext" checked="Qt::Unchecked" id="Color_by_section_copy20170701155334483" source="file:///home/ivan/Documents/maps/WAMM_Map/Vector/Missing%20Maps/WAMM_SL_2017_village_survey_ALL_VERSIONS.csv?type=csv&amp;xField=_LOCATION_longitude&amp;yField=_LOCATION_latitude&amp;spatialIndex=no&amp;subsetIndex=no&amp;watchFile=no" name="Color_by_date">
@@ -31,7 +31,7 @@
       <layer-tree-layer expanded="0" providerKey="delimitedtext" checked="Qt::Checked" id="Color_by_section_copy20170701155331577" source="file:///home/ivan/Documents/maps/WAMM_Map/Vector/Missing%20Maps/WAMM_SL_2017_village_survey_ALL_VERSIONS.csv?type=csv&amp;xField=_LOCATION_longitude&amp;yField=_LOCATION_latitude&amp;spatialIndex=no&amp;subsetIndex=no&amp;watchFile=no" name="Village_Name_labels">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="0" providerKey="delimitedtext" checked="Qt::Unchecked" id="Color_by_section_copy20170701155328879" source="file:///home/ivan/Documents/maps/WAMM_Map/Vector/Missing%20Maps/WAMM_SL_2017_village_survey_ALL_VERSIONS.csv?type=csv&amp;xField=_LOCATION_longitude&amp;yField=_LOCATION_latitude&amp;spatialIndex=no&amp;subsetIndex=no&amp;watchFile=no" name="Section_Name_labels">
+      <layer-tree-layer expanded="0" providerKey="delimitedtext" checked="Qt::Checked" id="Color_by_section_copy20170701155328879" source="file:///home/ivan/Documents/maps/WAMM_Map/Vector/Missing%20Maps/WAMM_SL_2017_village_survey_ALL_VERSIONS.csv?type=csv&amp;xField=_LOCATION_longitude&amp;yField=_LOCATION_latitude&amp;spatialIndex=no&amp;subsetIndex=no&amp;watchFile=no" name="Section_Name_labels">
         <customproperties/>
       </layer-tree-layer>
       <layer-tree-layer expanded="0" providerKey="delimitedtext" checked="Qt::Unchecked" id="Color_by_section_copy20170701155326135" source="file:///home/ivan/Documents/maps/WAMM_Map/Vector/Missing%20Maps/WAMM_SL_2017_village_survey_ALL_VERSIONS.csv?type=csv&amp;xField=_LOCATION_longitude&amp;yField=_LOCATION_latitude&amp;spatialIndex=no&amp;subsetIndex=no&amp;watchFile=no" name="Mapper_Name_labels">
@@ -88,10 +88,10 @@
   <mapcanvas>
     <units>degrees</units>
     <extent>
-      <xmin>-11.52946665955464844</xmin>
-      <ymin>7.64734258060395611</ymin>
-      <xmax>-10.52366815955251944</xmax>
-      <ymax>8.59699933060307764</ymax>
+      <xmin>-11.4823273474063825</xmin>
+      <ymin>7.61986055246893201</ymin>
+      <xmax>-10.4765288474042535</xmax>
+      <ymax>8.56951730246805354</ymax>
     </extent>
     <rotation>0</rotation>
     <projections>1</projections>
@@ -208,9 +208,9 @@
         <legendlayerfile isInOverview="0" layerid="Distance_matrix20170701170946686" visible="1"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="Missed_settlements" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="Missed_settlements" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="Missed_settlements20170701172041388" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="Missed_settlements20170701172041388" visible="0"/>
       </filegroup>
     </legendlayer>
     <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="Kenema_and_Kailahun_settlements_from_aerial" showFeatureCount="0">
@@ -224,9 +224,9 @@
           <legendlayerfile isInOverview="0" layerid="Problems20170701162717193" visible="0"/>
         </filegroup>
       </legendlayer>
-      <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="Color_by_section" showFeatureCount="0">
+      <legendlayer drawingOrder="-1" open="false" checked="Qt::Checked" name="Color_by_section" showFeatureCount="0">
         <filegroup open="false" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="WAMM_SL_2017_village_survey_ALL_VERSIONS20170701155234445" visible="0"/>
+          <legendlayerfile isInOverview="0" layerid="WAMM_SL_2017_village_survey_ALL_VERSIONS20170701155234445" visible="1"/>
         </filegroup>
       </legendlayer>
       <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="Color_by_date" showFeatureCount="0">
@@ -239,9 +239,9 @@
           <legendlayerfile isInOverview="0" layerid="Color_by_section_copy20170701155331577" visible="1"/>
         </filegroup>
       </legendlayer>
-      <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="Section_Name_labels" showFeatureCount="0">
+      <legendlayer drawingOrder="-1" open="false" checked="Qt::Checked" name="Section_Name_labels" showFeatureCount="0">
         <filegroup open="false" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="Color_by_section_copy20170701155328879" visible="0"/>
+          <legendlayerfile isInOverview="0" layerid="Color_by_section_copy20170701155328879" visible="1"/>
         </filegroup>
       </legendlayer>
       <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="Mapper_Name_labels" showFeatureCount="0">
@@ -3824,7 +3824,7 @@ def my_form_open(dialog, layer, feature):
           <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
         </edittype>
       </edittypes>
-      <annotationform></annotationform>
+      <annotationform>.</annotationform>
       <aliases>
         <alias field="InputID" index="0" name=""/>
         <alias field="TargetID" index="1" name=""/>
@@ -3841,10 +3841,10 @@ def my_form_open(dialog, layer, feature):
           <column width="-1" hidden="1" type="actions"/>
         </columns>
       </attributetableconfig>
-      <editform></editform>
+      <editform>.</editform>
       <editforminit/>
       <editforminitcodesource>0</editforminitcodesource>
-      <editforminitfilepath></editforminitfilepath>
+      <editforminitfilepath>.</editforminitfilepath>
       <editforminitcode><![CDATA[]]></editforminitcode>
       <featformsuppress>0</featformsuppress>
       <editorlayout>generatedlayout</editorlayout>
@@ -5065,8 +5065,6 @@ def my_form_open(dialog, layer, feature):
             </layer>
           </symbol>
         </source-symbol>
-        <colorramp type="randomcolors" name="[source]"/>
-        <invertedcolorramp value="0"/>
         <rotation/>
         <sizescale scalemethod="diameter"/>
       </renderer-v2>
@@ -5242,6 +5240,7 @@ def my_form_open(dialog, layer, feature):
       <SingleCategoryDiagramRenderer diagramType="Histogram" sizeLegend="0" attributeLegend="1">
         <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" sizeScale="0,0,0,0,0,0" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" lineSizeScale="0,0,0,0,0,0" sizeType="MM" lineSizeType="MM" minScaleDenominator="inf">
           <fontProperties description="Noto Sans,11,-1,5,50,0,0,0,0,0" style=""/>
+          <attribute field="" color="#000000" label=""/>
         </DiagramCategory>
         <symbol alpha="1" clip_to_extent="1" type="marker" name="sizeSymbol">
           <layer pass="0" class="SimpleMarker" locked="0">
@@ -5267,7 +5266,7 @@ def my_form_open(dialog, layer, feature):
         </symbol>
       </SingleCategoryDiagramRenderer>
       <DiagramLayerSettings yPosColumn="-1" showColumn="-1" linePlacementFlags="10" placement="0" dist="0" xPosColumn="-1" priority="0" obstacle="0" zIndex="0" showAll="1"/>
-      <annotationform></annotationform>
+      <annotationform>.</annotationform>
       <aliases>
         <alias field="fid" index="0" name=""/>
         <alias field="id" index="1" name=""/>
@@ -5352,10 +5351,10 @@ def my_form_open(dialog, layer, feature):
           <column width="-1" hidden="0" type="field" name="Confirmed_missing"/>
         </columns>
       </attributetableconfig>
-      <editform></editform>
+      <editform>.</editform>
       <editforminit/>
       <editforminitcodesource>0</editforminitcodesource>
-      <editforminitfilepath></editforminitfilepath>
+      <editforminitfilepath>.</editforminitfilepath>
       <editforminitcode><![CDATA[# -*- coding: utf-8 -*-
 """
 QGIS forms can have a Python function that is called when the form is
